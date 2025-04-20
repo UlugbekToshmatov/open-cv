@@ -1,5 +1,5 @@
-python:          3.10
-opencv-python:   4.11.0.86
-numpy:           2.2.5
+python~=3.10
+opencv-python~=4.11.0.86
+numpy~=2.2.5
 
 Note: Set your privacy to allow apps to access your webcam when reading video from your web camera.
